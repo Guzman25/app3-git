@@ -26,9 +26,9 @@
 	
 	<!--Para accesar a paginas en intenter-->
 <allow-intent href="https://*/*">
-<access origin="https://*/*">
+<acces origin="https://*/*">
 <allow-intent href="http://*/*">
-<access origin="http://*/*">
+<acces origin="http://*/*">
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 	<!-- Plugins -->
